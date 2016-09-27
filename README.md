@@ -15,36 +15,37 @@ for(i in 1:5){
 
 
 Let's try some headings
+
 # Heading 1
 1. some item
 
-Let's quote some stuff:
-> My quote line 1.
-> My quote line 2.
-> My very long quote line 3 which should be added to the first two lines into one big giant quote. This is quite handy.
-> Of course, it is also convenient to add lines for separate sentences.
+  Let's quote some stuff:
+  > My quote line 1.
+  > My quote line 2.
+  > My very long quote line 3 which should be added to the first two lines into one big giant quote. This is quite handy.
+  > Of course, it is also convenient to add lines for separate sentences.
 
-Break in the middle needed, else below quote ends up in the same block as the above one.
+  Break in the middle needed, else below quote ends up in the same block as the above one.
 
-> Let's try another quote.
+  > Let's try another quote.
 
   1. some other item
   1. some other item
-
+  
 1. some item
 
-The Cheatsheet said:
-> You can also use raw HTML in your Markdown, and it'll mostly work pretty well.
+   The Cheatsheet said:
+   > You can also use raw HTML in your Markdown, and it'll mostly work pretty well.
 
-So let's try it
-<ul>
-<li> something </li>
-<li> something </li>
-</ul>
+  So let's try it
+  <ul>
+  <li> something </li>
+  <li> something </li>
+  </ul>
 
   * some third item
   * some third item
-
+  
 1. some item
 1. some item
 
